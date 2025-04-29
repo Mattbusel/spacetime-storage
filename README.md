@@ -25,24 +25,8 @@ This is **not** meant for practical application at present, but instead to build
 
 ##  Project Structure
 
-4d-data-fabric/
-  docs/
-    concept.md: "High-level theory explanation"
-    references.md: "Academic sources & inspiration"
-    notes.md: "Freeform research thoughts"
-  src/
-    simulations/: "Code to simulate 4D structures or interactions"
-    visualizations/: "Diagrams and graphs of the data-space geometry"
-    encoding_schemes/: "Theoretical encoders: tensor math, curvature keys, etc."
-  tests/
-    unit_tests/: "If/when algorithms emerge"
-  .gitignore: "Git exclusion rules"
-  README.md: "Project overview and theory manifesto"
-  LICENSE: "To be determined"
 
-yaml
-Copy
-Edit
+
 
 ---
 
