@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/license-TBD-blue)
 
 ---
+![4D Data Fabric](./ChatGPT%20Image%20Apr%2029%2C%202025%2C%2005_14_10%20AM.png)
 
 > A speculative theory and experimental framework for storing and retrieving information embedded directly into the geometric and topological structures of spacetime — treating the universe not just as a medium, but as memory.
 
