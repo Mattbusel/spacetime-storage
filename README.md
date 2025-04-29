@@ -1,4 +1,4 @@
-# 🧬 4D Data Fabric — Encoding Information in the Fabric of Spacetime
+#  4D Data Fabric — Encoding Information in the Fabric of Spacetime
 
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 ![Repo Type](https://img.shields.io/badge/repo-private-lightgrey)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Concept Overview
+##  Concept Overview
 
 This project explores the idea that information could be encoded, transmitted, and potentially retrieved from perturbations in the structure of spacetime itself. Unlike conventional data storage in material substrates, this framework speculates about:
 
@@ -23,7 +23,7 @@ This is **not** meant for practical application at present, but instead to build
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 4d-data-fabric/ │ ├── /docs/ │ ├── concept.md # High-level theory explanation │ ├── references.md # Academic sources & inspiration │ └── notes.md # Freeform research thoughts │ ├── /src/ │ ├── simulations/ # Code to simulate 4D structures or interactions │ ├── visualizations/ # Diagrams and graphs of the data-space geometry │ └── encoding_schemes/ # Theoretical encoders: tensor math, curvature keys, etc. │ ├── /tests/ │ └── unit_tests/ # If/when algorithms emerge │ ├── .gitignore ├── README.md └── LICENSE
 
@@ -33,16 +33,16 @@ Edit
 
 ---
 
-## 🚀 Goals
+##  Goals
 
-- ⭕ Define a minimal set of physical constraints that could encode a single bit in spacetime
-- 🌀 Simulate possible 4D geometries and their information content
-- 🧊 Model retrieval mechanisms via observers, fields, or wavefronts
-- 🧪 Publish speculative whitepapers or host thought experiments for feedback
+-  Define a minimal set of physical constraints that could encode a single bit in spacetime
+-  Simulate possible 4D geometries and their information content
+-  Model retrieval mechanisms via observers, fields, or wavefronts
+-  Publish speculative whitepapers or host thought experiments for feedback
 
 ---
 
-## 🧭 Inspirations
+##  Inspirations
 
 - Roger Penrose's Twistor Theory
 - Holographic Principle (’t Hooft, Susskind)
@@ -53,12 +53,12 @@ Edit
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This repository contains **highly speculative, pre-paradigmatic** work. Theories here are not intended for immediate experimental testing and may stretch or reinterpret accepted physics. Proceed with an open mind.
 
 ---
 
-## 📌 Author Notes
+##  Author Notes
 
 This is a private theory lab. If you're here, you were meant to be.
