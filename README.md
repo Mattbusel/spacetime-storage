@@ -1,59 +1,51 @@
-# 4D Data Fabric -- Encoding Information in the Fabric of Spacetime
+# 4D Data Fabric: Encoding Information in Spacetime
 
-![Status](https://img.shields.io/badge/status-experimental-orange)
-![Repo Type](https://img.shields.io/badge/repo-private-lightgrey)
-![License](https://img.shields.io/badge/license-TBD-blue)
+A speculative theory project asking whether information could be stored in the geometry of spacetime itself, treating the universe not just as a medium but as memory.
 
----
-![4D Data Fabric](./ChatGPT%20Image%20Apr%2029%2C%202025%2C%2005_14_10%20AM.png)
+> **Status: concept stage, no code.** The repository has this README and a planned folder layout; the files under `src/`, `docs/` and `tests/` are empty placeholders. Nothing here is meant for practical application yet.
 
-> A speculative theory and experimental framework for storing and retrieving information embedded directly into the geometric and topological structures of spacetime -- treating the universe not just as a medium, but as memory.
+![4D Data Fabric concept art](./ChatGPT%20Image%20Apr%2029%2C%202025%2C%2005_14_10%20AM.png)
 
----
+## The question
 
-## Concept Overview
+Every storage technology we have writes bits into matter: magnetic domains, charge in transistors, pits in plastic. This project explores a stranger possibility: could information be encoded, carried and later read back from perturbations in the structure of spacetime?
 
-This project explores the idea that information could be encoded, transmitted, and potentially retrieved from perturbations in the structure of spacetime itself. Unlike conventional data storage in material substrates, this framework speculates about:
+Directions it wants to explore:
 
-- Encoding data as curvature, tension, or phase shifts in 4D spacetime
-- Using time as an active dimension of storage
-- Drawing parallels to gravitational waves, quantum fields, or brane theory
-- Bridging General Relativity, Quantum Field Theory, and Information Theory
-
-This is **not** meant for practical application at present, but instead to build theoretical scaffolding, simulations, and eventually conceptual proofs of feasibility.
-
----
-
-## Project Structure
-
----
+- Encoding data as curvature, tension or phase shifts in 4D spacetime
+- Using time as an active storage dimension
+- Parallels with gravitational waves, quantum fields and brane theory
+- Bridging general relativity, quantum field theory and information theory
 
 ## Goals
 
-- Define a minimal set of physical constraints that could encode a single bit in spacetime
-- Simulate possible 4D geometries and their information content
-- Model retrieval mechanisms via observers, fields, or wavefronts
-- Publish speculative whitepapers or host thought experiments for feedback
+- Define the minimal physical constraints needed to encode a single bit in spacetime
+- Simulate candidate 4D geometries and estimate their information content
+- Model how an observer, field or wavefront could read that information back
+- Publish speculative write-ups and thought experiments for feedback
 
----
+## Planned layout
+
+```
+docs/concept.md          theory write-up (empty)
+docs/references.md       reading list (empty)
+src/encoding_schemes     encoding ideas (placeholder)
+src/simulations          geometry simulations (placeholder)
+src/visualizations       plots and renders (placeholder)
+tests/unit_tests         (placeholder)
+```
+
+No language or toolchain has been chosen for the simulations yet.
 
 ## Inspirations
 
-- Roger Penrose's Twistor Theory
-- Holographic Principle (’t Hooft, Susskind)
-- Black hole information paradox
-- Tensor Networks and spacetime emergence
-- Wheeler’s "It from Bit" hypothesis
-- Quantum Gravity toy models
-
----
+- Roger Penrose's twistor theory
+- The holographic principle ('t Hooft, Susskind)
+- The black hole information paradox
+- Tensor networks and emergent spacetime
+- Wheeler's "It from Bit"
+- Toy models of quantum gravity
 
 ## Disclaimer
 
-This repository contains **highly speculative, pre-paradigmatic** work. Theories here are not intended for immediate experimental testing and may stretch or reinterpret accepted physics. Proceed with an open mind.
-
----
-
-## Author Notes
-
-This is a private theory lab. If you're here, you were meant to be.
+This is highly speculative, pre-paradigmatic work. The ideas are not ready for experimental testing and may stretch or reinterpret accepted physics. Read it as an invitation to think, and open an issue if you want to push on any of it.
